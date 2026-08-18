@@ -5,15 +5,15 @@ No accounts. No subscriptions. No unnecessary features -- yet teehee
 Just simple, fast tracking.
 ------------------------------------------------------------------------
 (Features)
-💰 Track total money spent on games
-➕ Add purchases with game name + amount
-📊 View spending stats (monthly + total)
-🎯 See top games by total spending
-📜 View detailed purchase history per game
-✏️ Edit purchases
-🗑 Delete purchases
-🌙 Clean dark mode UI
-📱 Fully offline (no internet required)
+ Track total money spent on games
+ Add purchases with game name + amount
+ View spending stats (monthly + total)
+ See top games by total spending
+ View detailed purchase history per game
+ Edit purchases
+ Delete purchases
+ Clean dark mode UI
+ Fully offline (no internet required)
 -------------------------------------------------------------------------
 (Tech Stack)
 Framework: Flutter
